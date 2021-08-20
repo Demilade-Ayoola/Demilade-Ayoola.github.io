@@ -1,0 +1,41 @@
+section {
+padding: 20px;
+    
+}
+h2 {
+    border-bottom: 2px solid grey;
+}
+.first{
+background-color: #d9cab3;
+}
+.second{
+
+}
+.third{
+background-color: #d9cab3;
+}
+.fourth{
+}
+.fifth{
+background-color: #d9cab3;
+} 
+.sixth{
+
+}
+.seventh{
+background-color: #d9cab3;
+}
+footer{
+    background-color: black;
+padding: 20px;
+text-align: center;}
+footer p {
+    color: white;
+    padding-left: 40px;
+    font-size: 25px;
+
+}
+img{
+    height: 90px;
+    width: 200px;
+}
